@@ -16,7 +16,7 @@
 	"contributes": {
 		"commands": [{
             "command": "terminal-auto-rename.helloWorld",
-            "title": "Hello World"
+            "title": "Terminal Auto Rename"
 		}]
 	},
 	"scripts": {
