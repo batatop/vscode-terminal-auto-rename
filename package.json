@@ -3,6 +3,7 @@
 	"displayName": "Terminal Auto Rename",
 	"description": "Automatically renames the terminal with the current folder name.",
 	"version": "0.0.1",
+	"publisher": "batatop",
 	"engines": {
 		"vscode": "^1.54.0"
 	},
