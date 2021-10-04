@@ -4,6 +4,10 @@
 	"description": "Automatically renames the terminal with the current folder name.",
 	"version": "0.0.1",
 	"publisher": "batatop",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/batatop/vscode-terminal-auto-rename.git"
+	},
 	"engines": {
 		"vscode": "^1.54.0"
 	},
